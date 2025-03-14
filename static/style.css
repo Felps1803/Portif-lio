@@ -119,3 +119,16 @@ section#Inicio div#arraste a {
 .section-bg{
     background-color: #eff5ff;
 }
+
+.carousel-control-prev{
+    margin-left: -4rem;
+}
+
+.carousel-control-next{
+    margin-right: -4rem;
+}
+
+.carousel-indicators{
+    margin-bottom: -35px;
+}
+
